@@ -1,8 +1,6 @@
 <h1 align="center">Salut, moi c'est Ons 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=%C3%89tudiante+ing%C3%A9nieure+Data+Science+%26+IA;Machine+Learning+%7C+NLP+%7C+LLM+%2F+RAG;%C3%80+la+recherche+d%27un+stage+de+PFE" alt="Typing SVG" />
-</p>
+<p align="center"><b>Étudiante ingénieure Data Science & IA · ML · NLP · LLM/RAG</b></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ton-profil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
